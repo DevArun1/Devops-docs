@@ -18,7 +18,7 @@ export MAVEN_HOME=/usr/local/apache-maven/apache-maven-3.9.6
 export PATH=${M2_HOME}/bin:${PATH}
 
 sudo chmod 777 ~/.bashrc
-source ~/.bashrc                                   (to reflect the changes)
+source ~/.bashrc                                (to reflect the changes)
 
 mvn -v
 
