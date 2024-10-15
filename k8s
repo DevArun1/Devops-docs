@@ -181,8 +181,6 @@ http://localhost:<NodePort>
 
 
 
-
-
 In the above screen shot, kubectl get pod -o wide command will tell you the IP of pod.
 
 Once you create service for pod (expose command creates the service for pod) just describe it and check the Endpoint, Endpoint is nothing the Pod IP
