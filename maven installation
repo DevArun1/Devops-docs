@@ -9,7 +9,6 @@ sudo tar xzvf apache-maven-3.9.6-bin.tar.gz -C /usr/local/apache-maven
 
 Create bashrc file (can be used to customize the user's shell environment, including setting environment variables, defining aliases, and creating functions)
 
-
 sudo vi ~/.bashrc
 
 
